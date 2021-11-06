@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT and security
 - 🌱 I’m currently learning how to work Java and Python
 - 💞️ I’m looking to collaborate on anything to learn
-- 📫 How to reach me email turnerjaron19@gmail.com or phone 678-860-1288
+- 📫 How to reach me email turnerjaron19@gmail.com
 
 <!---
 turnerjaron19/turnerjaron19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
